@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.googlecode.gentyref</groupId>
+	<groupId>com.vaadin.external</groupId>
 	<artifactId>gentyref</artifactId>
 	<packaging>jar</packaging>
-	<version>1.2.0-SNAPSHOT</version>
+	<version>1.2.0.vaadin1</version>
 	<inceptionYear>2008</inceptionYear>
 	<name>GenTyRef</name>
 	<url>http://code.google.com/p/gentyref/</url>
@@ -37,7 +37,7 @@
 		<system>Google Code Issue Tracking</system>
 		<url>http://code.google.com/p/gentyref/issues/list</url>
 	</issueManagement>
-	
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
